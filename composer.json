@@ -14,5 +14,5 @@
         "Sinta\\LaravelEpay\\":"src/Epay/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
