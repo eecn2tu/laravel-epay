@@ -11,7 +11,7 @@
   },
   "autoload":{
     "psr-4":{
-        "Sinta\\LaravelEpay\\":"src/"
+        "Sinta\\LaravelEpay\\":"src/Epay/"
     }
   },
   "minimum-stability": "stable"
